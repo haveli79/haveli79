@@ -8,4 +8,3 @@
 
 I have Certification in 'Introduction To Macvhine Learning' from Duke Universoty and Certification in 'Machine Learning Introduction For Everyone from IBM 
 I have worked on few hands-on. These includes working on some existing data my own way.
---->
